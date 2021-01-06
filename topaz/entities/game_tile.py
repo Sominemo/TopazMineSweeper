@@ -1,0 +1,2 @@
+class GameTile:
+    name = 'Tile'
